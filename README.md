@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Sayan
-- 👀 I’m interested in programming, web designing etc.
-- 🌱 I’m currently learning Web Development
-- 💞️ I’m looking to collaborate website development.
+- 👀 I’m interested in programming, Database Management System, quantum computation etc.
+- 🌱 I’m currently learning Quantum Computing.
 - 📫 How to reach me sayan.dutta.0903@gmail.com
 
 <!---
