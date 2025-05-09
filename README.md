@@ -1,7 +1,7 @@
 
 # Hi there, I'm **Sayan** 👋
 
-## 🚀 About Me
+## 📚 About Me
 
 - 🎓 Currently pursuing my Master's degree in Computer Science
 - 💻 Passionate about digital image processing, machine learning.
