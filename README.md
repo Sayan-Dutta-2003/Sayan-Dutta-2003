@@ -1,22 +1,16 @@
 
 # Hi there, I'm **Sayan** 👋
 
-[![Profile views](https://komarev.com/ghpvc/?username=your-github-username&color=blue)](https://github.com/your-github-username)
-
 ## 🚀 About Me
 
 - 🎓 Currently pursuing my Master's degree in Computer Science
-- 💻 Passionate about digital image processing, programming.
-- 🐈‍⬛ Cat lover and stray cat feeder
-- 🌱 Learning and exploring new technologies like ________
-
-
+- 💻 Passionate about digital image processing, machine learning.
+- 🐈‍⬛🐕 Cat and dog lover and stray feeder
+- 😋 Gourmand
+-  🌱 Learning and exploring new technologies like Computer Vision and LaTeX latex
+  $$\int_a^b f(x)\,dx = F(b) - F(a)$$ 
 
 ## 📫 How to Reach Me
 
-- 📧 Email: [your.email@example.com](mailto:sayan.dutta.0903@example.com)
-
-
+- 📧 Email: [sayan.dutta.0903@gmail.com](mailto:sayan.dutta.0903@gmail.com)
 ---
-
-*Thanks for visiting my profile!*
