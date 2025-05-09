@@ -5,10 +5,10 @@
 
 - 🎓 Currently pursuing my Master's degree in Computer Science
 - 💻 Passionate about digital image processing, machine learning.
+- 🌱 Learning and exploring new technologies like Computer Vision and \LaTeX{} 
 - 🐈‍⬛🐕 Cat and dog lover and stray feeder
 - 😋 Gourmand
--  🌱 Learning and exploring new technologies like Computer Vision and LaTeX latex
-  $$\int_a^b f(x)\,dx = F(b) - F(a)$$ 
+
 
 ## 📫 How to Reach Me
 
